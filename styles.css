@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+}
+
+
+
+.centerImage{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
