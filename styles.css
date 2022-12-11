@@ -7,7 +7,11 @@ h1{
 body{
     background-color: antiquewhite;
 }
-
+p{
+    text-align:center; 
+    font-weight: bold; 
+    font-size: larger;
+}
 ul{
     font-size: large;
     
