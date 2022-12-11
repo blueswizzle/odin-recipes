@@ -8,29 +8,23 @@ ul{
 }
 
 a:link{
-    color: green;
+    color: blue;
     Background-color: transparent;
-    Text-decoration: underline;
+    text-decoration: none;
   }
   a:visited {
-    Color: rgb(30, 255, 0);
+     color:blue;
      Background-color: transparent;
-     Text-decoration: underline;
+     text-decoration: none;
   }
   
   a:hover{
-     Color: yellow;
+     Color: red;
      background-color: transparent;
-    text-decoration: underline;
+     text-decoration: none;
   }
   
-  a:active { 
-     Color: pink;
-     background-color: transparent;
-    text-decoration: underline;
-  
-  }
-  
+
 .centerImage{
     display:block;
     margin-left: auto;
