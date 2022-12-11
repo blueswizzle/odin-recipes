@@ -12,7 +12,9 @@ ul{
     font-size: large;
     
 }
-
+ol{
+    font-size: large;
+}
 a:link{
     color: blue;
     Background-color: transparent;
