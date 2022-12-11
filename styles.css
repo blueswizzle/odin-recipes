@@ -2,8 +2,10 @@ body{
     background-color: antiquewhite;
 }
 
-
-
+ul{
+    font-size: large;
+    
+}
 .centerImage{
     display:block;
     margin-left: auto;
